@@ -1,6 +1,6 @@
 # Project Tracking Intro Component
 
-![Design preview for the Project tracking intro component](./design/desktop-preview.jpg)
+![Design preview for the Project tracking intro component](https://raw.githubusercontent.com/samuelsmith442/project-tracking-intro-component/main/design/desktop-preview.jpg)
 
 ## Overview
 
