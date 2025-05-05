@@ -1,7 +1,5 @@
 # Project Tracking Intro Component
 
-![Design preview for the Project tracking intro component](https://raw.githubusercontent.com/samuelsmith442/project-tracking-intro-component/main/design/desktop-preview.jpg)
-
 ## Overview
 
 This is a responsive project tracking intro component built with HTML, CSS, and JavaScript. The project is based on a design challenge from Frontend Mentor, featuring a modern UI for a project tracking landing page.
